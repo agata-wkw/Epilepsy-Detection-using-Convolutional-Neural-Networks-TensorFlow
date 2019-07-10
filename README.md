@@ -1,4 +1,6 @@
 # Epilepsy-Detection-using-Convolutional-Neural-Network
+@Author: Logothetis Fragkoulis
+
 
 For individuals with drug-resistant epilepsy, responsive neurostimulation sys-
 tems hold promise for augmenting current therapies and transforming epilepsy
@@ -25,4 +27,4 @@ can be resected to prevent future seizures are included in the contest. These
 datasets have varying numbers of electrodes and are sampled at 5000 Hz,
 with recorded voltages referenced to an electrode outside the brain.
 Since the number of electrodes and the recording conditions differ across
-patients, you will train a different classifier for each patient.
+patients, you will train a different CNN classifier for each patient.
